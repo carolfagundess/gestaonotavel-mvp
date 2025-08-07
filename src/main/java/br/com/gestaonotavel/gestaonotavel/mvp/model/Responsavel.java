@@ -1,4 +1,4 @@
-package br.com.gestao.notavel.mvp.model;
+package br.com.gestaonotavel.gestaonotavel.mvp.model;
 
 import jakarta.persistence.*;
 import java.util.Objects;
